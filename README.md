@@ -1,13 +1,21 @@
-# flutter_wallet_ui_challenge
+A Flutter implementation of a digital wallet user interface.
 
-A new Flutter project.
+**Technical Implementation**
+- Framework: Flutter
+- Platform Compatibility: Android, iOS
+- License: BSD-2-Clause
 
-Project Demo Video : https://www.youtube.com/watch?v=Vyj65qh_QiA
+**Project Structure**
+- `/android` - Android platform implementation
+- `/ios` - iOS platform implementation  
+- `/lib` - Core application components
+- `/screens` - Interface screen layouts
+- `/assets` - Application resources and media
+- `/test` - Testing modules
 
-## Getting Started
-Flutter Wallet UI Challange
-  
-  Page Name | Pictures   
- --- | --- 
- [Wallet Home Page] | <img src="screens/homepage.png" height= "800"/>
- [Overview Page] | <img src="screens/overviewpage.png" height= "800"/>
+**Development Status**
+- Wallet home page: Completed
+- Overview page: Completed
+
+**Getting Started**
+Standard Flutter project initialization and execution procedures apply.
